@@ -1,4 +1,7 @@
-# Fitting Binomial Distribution
+### EXP NO: 01
+### DATE:
+
+# <p align = "center"> Fitting Binomial Distribution
 
 # Aim : 
 
